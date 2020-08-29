@@ -1,6 +1,11 @@
 # notes
 Basic Template
 
+## To Verify in your local browser
+1. Run `runipy make.ipynb`
+2. Run `hugo server -D`
+3. http://localhost:1313/hugobase/
+
 ## To Deploy
 
 1. Run `runipy make.ipynb`
