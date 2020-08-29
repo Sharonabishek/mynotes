@@ -1,5 +1,5 @@
 ---
-title: "Template"
+title: "Python Division"
 author: "TACT"
 date: 2019-04-20
 description: "-"
@@ -8,18 +8,18 @@ draft: false
 ---
 
 ```python
-print('Hello Toronto')
+a = 30
+b = 6
+
+c = a / b
 ```
-
-    Hello Toronto
-
 
 
 ```python
-print(2)
+print(c)
 ```
 
-    2
+    5.0
 
 
 
