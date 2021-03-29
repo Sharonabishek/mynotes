@@ -1,6 +1,6 @@
-baseURL = "https://tactlabs.github.io/hugobase/"
+baseURL = "https://sharonabishek.github.io/mynotes/"
 languageCode = "en-us"
-title = "John Doe"
+title = "Sharon Abishek"
 theme = "berbera"
 
 pygmentsCodeFences=true
