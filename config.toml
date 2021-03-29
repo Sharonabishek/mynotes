@@ -1,4 +1,4 @@
-baseURL = "https://teamtact.github.io/hugobase/"
+baseURL = "https://tactlabs.github.io/hugobase/"
 languageCode = "en-us"
 title = "John Doe"
 theme = "berbera"
